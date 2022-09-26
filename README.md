@@ -1,1 +1,5 @@
-# web-crawling-with-python
+# 웹 크롤링
+## 이번 프로젝트는 파이썬으로 간단한 웹 크로링을 통한 프로그램을 제작하기 위한 프로젝트이다
+### Skill
+특정 사이트의 html코드를 가져오기 위해서 requests 모듈을 사용하였고
+가져온 html 코드를 파싱하기 위해서 BeautifulSoup모듈을 사용하였습니다
